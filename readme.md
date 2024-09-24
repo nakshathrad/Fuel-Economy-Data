@@ -12,10 +12,9 @@
 
 
 # What is Fuel Economy?
-Excerpt from Wikipedia page on Fuel Economy in Automobiles:
-The fuel economy of an automobile is the fuel efficiency relationship between the distance traveled and the amount 
-of fuel consumed by the vehicle. Consumption can be expressed in terms of volume of fuel to travel a distance, 
-or the distance travelled per unit volume of fuel consumed.
+Fuel economy refers to the efficiency of a vehicle in using fuel, typically measured by the distance a vehicle can travel per unit of fuel. It is most commonly expressed in terms of miles per gallon (MPG) in countries using the imperial system, or kilometers per liter (km/L) in countries using the metric system. Fuel economy indicates how efficiently a vehicle converts fuel into motion, impacting both the operating cost and environmental footprint of the vehicle.
+
+Higher fuel economy means a vehicle can travel farther on less fuel, which is more cost-effective and environmentally friendly, as it reduces fuel consumption and emissions. Factors affecting fuel economy include engine efficiency, vehicle weight, aerodynamics, driving habits, and road conditions..
 
 # Data set :
 Fuel Economy Data
